@@ -1,0 +1,43 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 13 May 2024 14:48:04 at https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/ -O1 "C:\My Web Sites\alwise" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:48:29	Error: 	"Method Not Allowed" (405) at link https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/xmlrpc.php (from https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/)
+14:49:24	Error: 	"Not Found" (404) at link https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/404 (from https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/)
+14:49:39	Warning: 	Moved Permanently for https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=1086
+14:49:39	Warning: 	File has moved from https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=1086 to https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/example-page-1/
+14:49:39	Warning: 	Moved Permanently for https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=1100
+14:49:39	Warning: 	File has moved from https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=1100 to https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/example-page-2/
+14:49:39	Warning: 	Moved Permanently for https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=1106
+14:49:39	Warning: 	File has moved from https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=1106 to https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/example-page-3/
+14:49:39	Warning: 	Moved Permanently for https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=1112
+14:49:39	Warning: 	File has moved from https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=1112 to https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/example-page-4/
+14:49:39	Warning: 	Moved Permanently for https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=1121
+14:49:39	Warning: 	File has moved from https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=1121 to https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/example-page-5/
+14:49:39	Warning: 	Moved Permanently for https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=1125
+14:49:39	Warning: 	File has moved from https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=1125 to https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/page-example-6/
+14:49:39	Warning: 	Moved Permanently for https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=1130
+14:49:39	Warning: 	File has moved from https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=1130 to https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/example-page-7/
+14:49:39	Warning: 	Moved Permanently for https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=1142
+14:49:39	Warning: 	File has moved from https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=1142 to https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/example-page-8/
+14:49:39	Warning: 	Moved Permanently for https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=1155
+14:49:39	Warning: 	File has moved from https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=1155 to https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/example-page-9/
+14:49:39	Warning: 	Moved Permanently for https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=1165
+14:49:39	Warning: 	File has moved from https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=1165 to https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/example-page-10/
+14:49:39	Warning: 	Moved Permanently for https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=923
+14:49:39	Warning: 	File has moved from https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=923 to https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/front-page-hero-alternative/
+14:49:39	Warning: 	Moved Permanently for https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=533
+14:49:39	Warning: 	File has moved from https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=533 to https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/typography-test-page/
+14:49:39	Warning: 	Moved Permanently for https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=294
+14:49:39	Warning: 	File has moved from https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=294 to https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/hello-brooklyn/
+14:50:29	Warning: 	Moved Permanently for https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=300
+14:50:29	Warning: 	File has moved from https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=300 to https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/i-want-music/
+14:50:31	Warning: 	Moved Permanently for https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=1
+14:50:31	Warning: 	File has moved from https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/?p=1 to https://themeforest.unitedthemes.com/wpversions/brooklyn/demo42/zara/
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 28 seconds : 305 links scanned, 287 files written (46327357 bytes overall) [33988825 bytes received at 229654 bytes/sec], 14457158 bytes transferred using HTTP compression in 30 files, ratio 10%, 25.5 requests per connection
+(2 errors, 30 warnings, 0 messages)
